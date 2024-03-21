@@ -1,0 +1,6 @@
+test
+char
+CLEAN
+int
+clean
+^#include
